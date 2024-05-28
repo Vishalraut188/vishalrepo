@@ -1,0 +1,25 @@
+19:37:47.793 [main] DEBUG tests.LoginTest - Browser Launched
+19:38:01.912 [main] DEBUG tests.LoginTest - Navigate To Application URl
+19:38:04.654 [main] DEBUG tests.LoginTest - Click on My Account link
+19:38:05.410 [main] DEBUG tests.LoginTest - Click on Login link
+19:38:05.699 [main] DEBUG tests.LoginTest - Email addres got  entered
+19:38:05.790 [main] DEBUG tests.LoginTest - Password got entere
+19:38:07.458 [main] DEBUG tests.LoginTest - loggin button Clicked 
+19:38:07.646 [main] DEBUG tests.LoginTest - User got logged in
+19:38:07.800 [main] INFO  tests.LoginTest - Test case pass
+19:38:07.801 [main] INFO  tests.LoginTest - Login Test got passed
+19:38:10.198 [main] DEBUG tests.LoginTest - Browser Close
+19:38:24.277 [main] DEBUG tests.LoginTest - Browser Launched
+19:39:02.674 [main] DEBUG tests.LoginTest - Navigate To Application URl
+19:39:02.867 [main] DEBUG tests.LoginTest - cliked on my account link
+19:39:09.966 [main] DEBUG tests.LoginTest - cliked on my registration link
+19:39:11.910 [main] DEBUG tests.LoginTest - Enterd firstname
+19:39:12.085 [main] DEBUG tests.LoginTest - Entered lastname
+19:39:12.233 [main] DEBUG tests.LoginTest - Entered Email Addres
+19:39:12.375 [main] DEBUG tests.LoginTest - Entered telephonenumber
+19:39:12.540 [main] DEBUG tests.LoginTest - Entered password
+19:39:12.679 [main] DEBUG tests.LoginTest - Entered conpassword
+19:39:12.783 [main] DEBUG tests.LoginTest - check box click
+19:39:14.136 [main] DEBUG tests.LoginTest - continue button click
+19:39:19.285 [main] INFO  tests.LoginTest -  Duplicate Email addresss already entered please entered uniqe email address 
+19:39:20.235 [main] DEBUG tests.LoginTest - Browser Close

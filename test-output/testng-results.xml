@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-27T19:35:58 IST" name="Suite" finished-at="2024-05-27T19:39:20 IST" duration-ms="201636">
+    <groups>
+    </groups>
+    <test started-at="2024-05-27T19:35:58 IST" name="Test1" finished-at="2024-05-27T19:38:10 IST" duration-ms="131603">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.LoginTest@67545b57]" started-at="2024-05-27T19:35:58 IST" name="openBrowser" finished-at="2024-05-27T19:38:01 IST" duration-ms="123259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTest@67545b57]" started-at="2024-05-27T19:38:01 IST" name="login" data-provider="getLogin" finished-at="2024-05-27T19:38:07 IST" duration-ms="5881" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ramss@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ramss]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sucessfull]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closer()[pri:0, instance:tests.LoginTest@67545b57]" started-at="2024-05-27T19:38:08 IST" name="closer" finished-at="2024-05-27T19:38:10 IST" duration-ms="2031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closer -->
+      </class> <!-- tests.LoginTest -->
+    </test> <!-- Test1 -->
+    <test started-at="2024-05-27T19:38:14 IST" name="Test2" finished-at="2024-05-27T19:39:20 IST" duration-ms="65249">
+      <class name="tests.RegistrationTest">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:tests.RegistrationTest@3ad2e17]" started-at="2024-05-27T19:38:14 IST" name="openbrowser" finished-at="2024-05-27T19:39:02 IST" duration-ms="47694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="registration()[pri:0, instance:tests.RegistrationTest@3ad2e17]" started-at="2024-05-27T19:39:02 IST" name="registration" finished-at="2024-05-27T19:39:19 IST" duration-ms="16601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+        <test-method is-config="true" signature="close()[pri:0, instance:tests.RegistrationTest@3ad2e17]" started-at="2024-05-27T19:39:19 IST" name="close" finished-at="2024-05-27T19:39:20 IST" duration-ms="947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- tests.RegistrationTest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
